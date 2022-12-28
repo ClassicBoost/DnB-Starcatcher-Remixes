@@ -1,0 +1,35 @@
+{
+	"storyName": "Oh shit he's gonna kill me",
+	"difficulties": "Normal",
+	"hideFreeplay": true,
+	"weekBackground": "space1",
+	"weekBefore": "apple",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Test",
+			"bf-pixel",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"Furiosity",
+			"dave-3d",
+			[
+				200,
+				200,
+				200
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Strident"
+}

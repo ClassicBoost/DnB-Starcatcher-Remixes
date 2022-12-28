@@ -1,0 +1,26 @@
+{
+	"storyName": "NON CANON - Tutorial",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "dave",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Tutorial",
+			"dave",
+			[
+				136,
+				89,
+				255
+			]
+		]
+	],
+	"weekName": "Warm Up"
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "Chapter 1 - Crash Landing",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "dave",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"House",
+			"dave",
+			[
+				136,
+				89,
+				255
+			]
+		],
+		[
+			"Insanity",
+			"dave-insanity",
+			[
+				136,
+				89,
+				255
+			]
+		],
+		[
+			"Polygonized",
+			"dave-3d",
+			[
+				136,
+				89,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Chapter1",
+	"hiddenUntilUnlocked": false
+}

@@ -1,0 +1,33 @@
+{
+	"songs": [
+		[
+			"Cheating",
+			"bambi3d",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"difficulties": "",
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"storyName": "Bonus",
+	"weekName": "Extra",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"difficulties": "Normal, Hell",
+	"startUnlocked": true
+}

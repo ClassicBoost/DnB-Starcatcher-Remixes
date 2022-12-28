@@ -1,0 +1,44 @@
+{
+	"dialogue": [
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi-god",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You had done it Ryan"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi-god",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "You made me reach my fucking limits"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi-god",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Now with 0.001% power, I will turn you into ashes"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bambi-god",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "and feed them to my animals"
+		},
+		{
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Bruh"
+		}
+	]
+}

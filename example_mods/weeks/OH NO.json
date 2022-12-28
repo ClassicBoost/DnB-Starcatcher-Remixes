@@ -1,0 +1,26 @@
+{
+	"storyName": "I'm not a theif I swear",
+	"difficulties": "Done For",
+	"hideFreeplay": true,
+	"weekBackground": "bambi",
+	"weekBefore": "dave",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Destruction",
+			"bambi-god",
+			[
+				255,
+				255,
+				255
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Bambi2"
+}

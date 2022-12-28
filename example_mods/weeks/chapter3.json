@@ -1,0 +1,41 @@
+{
+	"storyName": "Chapter 3 - Entering the realm (again)",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "wireframe",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "chapter2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Disability",
+			"dave-disability",
+			[
+				136,
+				89,
+				255
+			]
+		],
+		[
+			"Wireframe",
+			"wireframe-preview",
+			[
+				230,
+				61,
+				108
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Chapter3",
+	"hiddenUntilUnlocked": false
+}

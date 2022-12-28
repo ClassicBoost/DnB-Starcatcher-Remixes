@@ -1,0 +1,45 @@
+{
+	"storyName": "Chapter 2b - ???",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "farmb",
+	"weekBefore": "chapter9",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Supernovae",
+			"bambi-joke",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Glitch",
+			"bambi-joke",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Master",
+			"bambi-joke-mad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": true,
+	"weekName": "Bambi"
+}

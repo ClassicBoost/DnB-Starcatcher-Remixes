@@ -1,0 +1,35 @@
+{
+	"storyName": "Chapter 8 - Chill Insane Guy",
+	"difficulties": "Normal, Hell",
+	"hideFreeplay": false,
+	"weekBackground": "space1",
+	"weekBefore": "chapter7",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Opposition",
+			"opposition-expunged",
+			[
+				200,
+				200,
+				200
+			]
+		],
+		[
+			"Thearchy",
+			"opposition-expungedCRAZY",
+			[
+				200,
+				200,
+				200
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Chapter8"
+}

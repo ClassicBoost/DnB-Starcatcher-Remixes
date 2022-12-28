@@ -1,0 +1,52 @@
+{
+	"dialogue": [
+		{
+			"sound": "bambiText",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHY YOU DO THIS?"
+		},
+		{
+			"sound": "bambiText",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "THAT'S IT"
+		},
+		{
+			"sound": "bambiText",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I'M GOING TO KILL YOU dsjfoigoiratgjfkghfjgjdfigjdftremiturtuiraithrithr"
+		},
+		{
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "Wait no I don't-"
+		},
+		{
+			"sound": "bambiText",
+			"speed": 0.02,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I DO NOT CARE!"
+		},
+		{
+			"sound": "bambiText",
+			"speed": 0.05,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU WILL DIE NOW!"
+		}
+	]
+}

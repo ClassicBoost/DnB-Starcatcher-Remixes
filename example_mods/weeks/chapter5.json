@@ -1,0 +1,33 @@
+{
+	"songs": [
+		[
+			"Deformation",
+			"unknown",
+			[
+				50,
+				50,
+				50
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "cave",
+	"difficulties": "",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Chapter 5 - The Darkness",
+	"weekName": "Chapter5",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "chapter4",
+	"difficulties": "Normal",
+	"startUnlocked": true
+}

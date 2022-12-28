@@ -1,0 +1,50 @@
+{
+	"storyName": "Chapter 7 - Trapped",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "purgatory",
+	"weekBefore": "chapter6",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Beefin",
+			"bamburg",
+			[
+				234,
+				224,
+				112
+			]
+		],
+		[
+			"Technology",
+			"bombu",
+			[
+				33,
+				49,
+				89
+			]
+		],
+		[
+			"RSOD",
+			"bombu-expunged",
+			[
+				100,
+				16,
+				29
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Chapter7"
+}

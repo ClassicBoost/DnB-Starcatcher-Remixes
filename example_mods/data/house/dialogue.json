@@ -1,0 +1,92 @@
+{
+	"dialogue": [
+		{
+			"sound": "bfText",
+			"speed": 0.2,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "hurt",
+			"text": "ugh..."
+		},
+		{
+			"sound": "daveText",
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "My god are you okay?"
+		},
+		{
+			"sound": "bfText",
+			"speed": 0.2,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "hurt",
+			"text": "I... think?"
+		},
+		{
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "huh?"
+		},
+		{
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "Who are you?"
+		},
+		{
+			"sound": "daveText",
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Daniel, and you?"
+		},
+		{
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well I'm..."
+		},
+		{
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "hurt",
+			"text": "uhh..."
+		},
+		{
+			"sound": "no",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "hurt",
+			"text": "(I don't remember...)"
+		},
+		{
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Wanna sing?"
+		},
+		{
+			"sound": "daveText",
+			"speed": 0.05,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "I mean, if you're injured maybe go to a hospital. But uhh, I guess?"
+		}
+	]
+}

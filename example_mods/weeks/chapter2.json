@@ -1,0 +1,44 @@
+{
+	"storyName": "Chapter 2 - Jeri's Farm",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "bambi",
+	"weekBefore": "chapter1",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Blocked",
+			"bambi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Star Theft",
+			"bambi",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"Maze",
+			"bambi",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "Chapter2"
+}

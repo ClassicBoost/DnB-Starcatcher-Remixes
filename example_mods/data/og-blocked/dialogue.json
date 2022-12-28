@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"sound": "bambiText",
+			"speed": 0.035,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "WHO IS WALKING ONTO MY FARM!?"
+		},
+		{
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Oh sorry I was told by Daniel to come and talk to you-"
+		},
+		{
+			"sound": "bambiText",
+			"speed": 0.02,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "NO YOU LIAR!"
+		},
+		{
+			"sound": "bambiText",
+			"speed": 0.02,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "YOU ARE HERE TO STEAL MY CORN!"
+		},
+		{
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "WHAT NO THAT'S NOT WHAT I WAS TRYING TO DO!"
+		},
+		{
+			"sound": "bambiText",
+			"speed": 0.01,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "SHUT THE FUCK UP YOU STUPID ASS FURRY MY GOD WHY DO THEY EXIST?!"
+		},
+		{
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "bruj"
+		},
+		{
+			"sound": "bambiText",
+			"speed": 0.025,
+			"portrait": "bambi",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "I'M GONNA BLOCK YOU OUT OF MY FARM!"
+		},
+		{
+			"sound": "no",
+			"speed": 0.1,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "..."
+		}
+	]
+}

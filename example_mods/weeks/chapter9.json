@@ -1,0 +1,35 @@
+{
+	"storyName": "Final Chapter - FILE FAILED TO LOAD",
+	"difficulties": "Normal, Hell",
+	"hideFreeplay": false,
+	"weekBackground": "null",
+	"weekBefore": "chapter8",
+	"startUnlocked": true,
+	"songs": [
+		[
+			"INSANE",
+			"insanity",
+			[
+				165,
+				0,
+				77
+			]
+		],
+		[
+			"LACUNA",
+			"lacuna-expunged",
+			[
+				165,
+				0,
+				77
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekName": "NULL"
+}

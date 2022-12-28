@@ -1,0 +1,89 @@
+{
+	"dialogue_pos": "right",
+	"position": [
+		100,
+		50
+	],
+	"scale": 1.25,
+	"animations": [
+		{
+			"anim": "talk",
+			"loop_offsets": [
+				0,
+				0
+			],
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Normal0",
+			"idle_name": "Normal0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "excited",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Yeah0",
+			"idle_name": "Yeah0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "hurt",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Oops0",
+			"idle_name": "Oops0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "pissed",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "BF PISSED LOOP",
+			"idle_name": "BF PISSED0"
+		},
+		{
+			"loop_offsets": [
+				0,
+				0
+			],
+			"anim": "shocked",
+			"idle_offsets": [
+				0,
+				0
+			],
+			"loop_name": "Scared0",
+			"idle_name": "Scared0"
+		},
+		{
+			"idle_offsets": [
+				0,
+				0
+			],
+			"anim": "confused",
+			"loop_offsets": [
+				-3,
+				0
+			],
+			"idle_name": "Normal0",
+			"loop_name": "Normal0"
+		}
+	],
+	"image": "Ryan_Dialogue"
+}

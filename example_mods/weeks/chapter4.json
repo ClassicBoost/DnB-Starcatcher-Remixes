@@ -1,0 +1,32 @@
+{
+	"storyName": "Chapter 4 - Bandu",
+	"difficulties": "Normal",
+	"hideFreeplay": false,
+	"weekBackground": "apple",
+	"weekBefore": "chapter3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Applecore",
+			"bandu-preview",
+			[
+				93,
+				38,
+				238
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Applecore"
+}

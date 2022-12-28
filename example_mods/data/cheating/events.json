@@ -1,0 +1,96 @@
+{
+	"song": {
+		"events": [
+			[
+				5760,
+				[
+					[
+						"Change Scroll Speed",
+						"1.5",
+						"1.5"
+					]
+				]
+			],
+			[
+				69120,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						"0.5"
+					]
+				]
+			],
+			[
+				69130,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi-unfair"
+					]
+				]
+			],
+			[
+				99840,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi-3d"
+					]
+				]
+			],
+			[
+				99845,
+				[
+					[
+						"Change Scroll Speed",
+						"2",
+						"1"
+					]
+				]
+			],
+			[
+				103680,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi-unfair"
+					]
+				]
+			],
+			[
+				108480,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi-3d"
+					]
+				]
+			],
+			[
+				109440,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi-unfair"
+					]
+				]
+			],
+			[
+				115200,
+				[
+					[
+						"Change Character",
+						"dad",
+						"bambi-3d"
+					]
+				]
+			]
+		]
+	}
+}

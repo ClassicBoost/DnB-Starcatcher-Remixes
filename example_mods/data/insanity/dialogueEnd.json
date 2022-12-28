@@ -1,0 +1,20 @@
+{
+	"dialogue": [
+		{
+			"sound": "daveText",
+			"speed": 0.2,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "uh oh"
+		},
+		{
+			"sound": "bfText",
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what?"
+		}
+	]
+}

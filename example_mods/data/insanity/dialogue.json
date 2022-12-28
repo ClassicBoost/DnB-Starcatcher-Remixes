@@ -1,0 +1,12 @@
+{
+	"dialogue": [
+		{
+			"sound": "daveText",
+			"speed": 0.2,
+			"portrait": "dave",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ""
+		}
+	]
+}
